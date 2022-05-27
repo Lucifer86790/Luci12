@@ -103,7 +103,7 @@ python3 bot.py
 • /link - to create link for one post
 ```
 ## Support
-[𝘿𝙆_𝘽𝙊𝙏𝙭](https://telegram.dog/HDFilmz4U)
+[HDFilms4U](https://telegram.dog/HDFilmz4U)
 
 
 ## Credits 
